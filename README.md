@@ -15,7 +15,7 @@ Hi there, I'm Eduardo Miola 👋
 ## 📌 Highlights
 
 - 🔭 **Current Projects:**  
-  - Working on [UtfprAulasGoogleCalendar](https://github.com/EduardoMiola/UtfprAulasGoogleCalendar) - A [UtfprAulasGoogleCalendar automates the process of scheduling university classes on Google Calendar. It extracts class schedules from a PDF file using Python, converts the data into a structured CSV file, and utilizes the Google Calendar API to create events for an entire semester. This tool simplifies time management and ensures that class schedules are easily accessible on any device synced with Google Calendar.].  
+  - Working on [UtfprAulasGoogleCalendar](https://github.com/EduardoMiola/UtfprAulasGoogleCalendar) - UtfprAulasGoogleCalendar automates the process of scheduling university classes on Google Calendar. It extracts class schedules from a PDF file using Python, converts the data into a structured CSV file, and utilizes the Google Calendar API to create events for an entire semester. This tool simplifies time management and ensures that class schedules are easily accessible on any device synced with Google Calendar.  
   - Exploring [Frontend and Data analysis].  
 
 - 🌱 **Learning:**  
