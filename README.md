@@ -1,6 +1,6 @@
 # Hi there, I'm Eduardo Miola 👋
 
-![Welcome Banner]([https://via.placeholder.com/800x200.png?text=Welcome+to+my+GitHub](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2N0d24yYnVjZmJnMzFqdzZxeDF0eTM2emdjaW53d2gyZmRqemdxaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eJG93okDlbbMSWreuz/giphy.webp)
+![Welcome Banner]([https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2N0d24yYnVjZmJnMzFqdzZxeDF0eTM2emdjaW53d2gyZmRqemdxaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eJG93okDlbbMSWreuz/giphy.webp])
 
 ## About Me 🚀
 
