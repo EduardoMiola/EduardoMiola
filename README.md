@@ -3,7 +3,7 @@ Hi there, I'm Eduardo Miola 👋  <br>
 Olá, me chamo Eduardo Miola 👋  
 
 ![Welcome Banner](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2N0d24yYnVjZmJnMzFqdzZxeDF0eTM2emdjaW53d2gyZmRqemdxaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eJG93okDlbbMSWreuz/giphy.webp)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EduardoMiola)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>
 
 ---
