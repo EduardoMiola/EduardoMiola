@@ -1,12 +1,15 @@
 <div align="center">
-Olá, me chamo Eduardo Miola 👋  
+Olá, me chamo Eduardo Miola 
 </div>
 
-## Sobre Mim 🚀
 
-👨‍💻 **Desenvolvedor de Software**, atualmente cursando Engenharia de Software na UTFPR.  
+## Sobre Mim 
 
-## 🛠️ Tecnologias & Ferramentas
+**Desenvolvedor de Software**, atualmente cursando Engenharia de Software na UTFPR.  
+
+![Eduardo GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardomiola&show_icons=true&theme=radical)
+
+## 🛠 Tecnologias & Ferramentas
 
 ### **Front-end**
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
