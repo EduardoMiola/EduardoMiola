@@ -14,7 +14,7 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats-git-master-eduardomiolas-projects.vercel.app/api?username=eduardomiola&show_icons=true&theme=radical&count_private=true" alt="Eduardo GitHub Stats" />
+<img height="170" src="https://github-readme-stats-git-master-eduardomiolas-projects.vercel.app/api?username=eduardomiola&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="Eduardo GitHub Stats" />
 
 </div>
 
