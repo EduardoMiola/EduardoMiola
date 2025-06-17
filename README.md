@@ -7,7 +7,7 @@ Olá, me chamo Eduardo Miola
 
 **Desenvolvedor de Software**, atualmente cursando Engenharia de Software na UTFPR.  
 
-![Eduardo GitHub stats](https://github-readme-stats-618cyoz1s-eduardomiolas-projects.vercel.app/api?username=eduardomiola&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=false)
+![Eduardo GitHub stats](https://github-readme-stats-618cyoz1s-eduardomiolas-projects.vercel.app/api?username=eduardomiola&show_icons=true&theme=radical&count_private=true)
 
 ## 🛠 Tecnologias & Ferramentas
 
